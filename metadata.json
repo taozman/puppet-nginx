@@ -2,7 +2,11 @@
   "name": "tzhang-nginx",
   "version": "0.1.0",
   "author": "tzhang",
+<<<<<<< HEAD
   "summary": "nginx module for puppet",
+=======
+  "summary": "Ngnix module for Puppet",
+>>>>>>> d94301da0a9318eac67319cef016aaf4da91a6b0
   "license": "Apache-2.0",
   "source": "https://github.com/taozman/puppet-nginx.git",
   "project_page": "https://github.com/taozman/puppet-nginx",
